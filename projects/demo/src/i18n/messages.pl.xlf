@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="8172455619180027492" datatype="html">
+        <source>Line: <x id="INTERPOLATION" equiv-text="{{ one }}"/>
+Line: <x id="INTERPOLATION_1" equiv-text="ine: {{ t"/></source>
+        <target>Linia: <x id="INTERPOLATION" equiv-text="{{ one }}"/>
+Linia: <x id="INTERPOLATION_1" equiv-text="ine: {{ t"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/demo/src/app/app.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4906579891802234912" datatype="html">
+        <source>Interpolation: <x id="INTERPOLATION" equiv-text="{{ one }}"/> Interpolation: <x id="INTERPOLATION_1" equiv-text="ion: {{ t"/></source>
+        <target>Interpolacja: <x id="INTERPOLATION" equiv-text="{{ one }}"/> Interpolacja: <x id="INTERPOLATION_1" equiv-text="ion: {{ t"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">projects/demo/src/app/app.component.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
